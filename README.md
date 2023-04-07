@@ -1,2 +1,2 @@
 # sql
-CS50’s Introduction to Databases with SQL
+This is CS50’s Introduction to Databases with SQL
